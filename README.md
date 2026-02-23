@@ -30,11 +30,16 @@ The project demonstrates the complete ML workflow including data preprocessing, 
 
 The dataset contains structured housing data including features such as:
 
-- Area
-- Number of Bedrooms
-- Number of Bathrooms
-- Location-related attributes
-- Other numerical housing parameters
+- longitude
+- latitude
+- housing_median_age
+- total_rooms
+- total_bedrooms
+- population
+- households
+- median_income
+- ocean_proximity (categorical feature)
+- 🎯 median_house_value (Target Variable) 
 
 ---
 
